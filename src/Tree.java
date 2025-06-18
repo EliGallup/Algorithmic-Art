@@ -7,7 +7,7 @@ public class Tree {
     // - = turn left
     public void createNodes() {
         Node root = new Node();
-        // for one second
+        // until createLimit = 0
         root.createNodes();
     }
 
